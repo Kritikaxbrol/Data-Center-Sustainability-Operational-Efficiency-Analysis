@@ -4,3 +4,7 @@ numpy>=1.24
 plotly>=5.18
 matplotlib
 seaborn
+plotly.express
+plotly.graph_objects
+import base64(for background photo)
+
