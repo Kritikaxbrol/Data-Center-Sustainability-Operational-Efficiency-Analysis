@@ -6,5 +6,4 @@ matplotlib
 seaborn
 plotly.express
 plotly.graph_objects
-import base64(for background photo)
 
